@@ -3,7 +3,7 @@ import NumberSelector from "../NumberSelector/NumberSelector";
 import RollDice from "../RollDice/RollDice";
 import { useState } from "react";
 import Rules from "../GameRules/Rules";
-import styles from "./gameplay.module.css";
+import styles from "./Gameplay.module.css";
 
 
 const GamePlay = () => {
